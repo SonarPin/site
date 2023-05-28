@@ -1,0 +1,20 @@
+
+header {
+    background-color: #9E5EEF;
+}
+
+nav a {
+     border: solid black 2px;
+     border-radius: 10px;
+    padding: 5px;
+    background-color: burlywood;
+
+}
+
+body{
+    background-color: rgb(131, 183, 226);
+}
+
+table{
+    background-color: white;
+}
